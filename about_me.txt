@@ -2,6 +2,4 @@ This file is going to talk a little about me
 my name is collins obinna ibeh, i love tech
 and i am currently learning devops with kavetec
 
-currently doing a project on git
-
-working under the feature branch to fix updates
+I enjoy working on projects and contributing to the team
